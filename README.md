@@ -1,1 +1,1 @@
-Udemy course for a variety fo applications
+Udemy course for a variety of basic Python applications.
